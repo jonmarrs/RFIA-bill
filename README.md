@@ -47,6 +47,8 @@ Sec.208.Digital asset mining and staking.
 
 Sec.209.Conforming amendments.
 
+Sec.210.Bitcoin legal tender.
+
 &nbsp;
 
 *TITLE III—RESPONSIBLE SECURITIES INNOVATION*
@@ -529,6 +531,58 @@ SEC. 209. CONFORMING AMENDMENTS.
 "(B) by inserting after clause (xxiv) the following:
 
 "‘(Y) a person engaged in the trade of antiquities, including an advisor, consultant, or any other person who engages as a business in the solicitation or the sale of antiquities, subject to regulations prescribed by the Secretary;’.".
+
+&nbsp;
+
+SEC. 210. BITCOIN LEGAL TENDER.
+
+CONSIDERING:
+That the State is under the obligation to promote and protect private enterprise, generating the necessary conditions to increase national wealth for the benefit of the greatest number of inhabitants.
+That the United States dollar was adopted as legal tender.
+That not all citizens have access to traditional financial services.
+That it is the obligation of the state to facilitate the financial inclusion of its citizens in order to better guarantee their rights.
+That inflation of fiat currencies is an intolerable economic hardship against which the citizens of the United States should be protected.
+That in order to promote the economic growth of the nation, it is necessary to authorize the circulation of a digital currency, with a limited supply, whose value answers exclusively to free-market criteria, in order to increase national wealth for the benefit of the greatest number of inhabitants.
+That according to the previous considerations, it is essential to issue the basic rules that will regulate the legal course of bitcoin.
+THEREFORE,
+
+DECREES the following:
+
+BITCOIN LAW
+CHAPTER I
+GENERAL DISPOSITIONS
+Art. 1. The purpose of this law is to regulate bitcoin as unrestricted legal tender with liberating power, unlimited in any transaction, and to any title that public or private natural or legal persons require carrying out.
+
+Art. 2. The exchange rate between bitcoin and the United States dollar, subsequently USD, will be freely established by the market.
+
+Art. 3. Prices may be expressed in bitcoin.
+
+Art. 4. Tax contributions can be paid in bitcoin.
+
+Art. 5. Exchanges in bitcoin will not be subject to capital gains tax, just like any legal tender.
+
+Art. 6. For accounting purposes, the USD will be used as the reference currency.
+
+Art. 7. Every economic agent must accept bitcoin as payment when offered to him by whoever acquires a good or service.
+
+Art. 8. Without prejudice to the actions of the private sector, the State shall provide alternatives that allow the user to carry out transactions in bitcoin and have automatic and instant convertibility from bitcoin to USD if they wish. Furthermore, the State will promote the necessary training and mechanisms so that the population can access bitcoin transactions.
+
+Art. 9. The limitations and operations of the alternatives of automatic and instantaneous conversion from bitcoin to USD provided by the State will be specified in the Regulations issued for this purpose.
+
+Art. 10. The Executive Branch will create the necessary institutional structure to apply this law.
+
+FINAL AND TRANSITIONAL PROVISIONS
+Art. 11. The Federal Reserve Bank and the Chair of the Federal Reserve shall issue the corresponding regulations within the period mentioned in Article 16 of this law.
+
+Art. 12. Those who, by evident and notorious fact, do not have access to the technologies that allow them to carry out transactions in bitcoin are excluded from the obligation expressed in Art. 7 of this law. The State will promote the necessary training and mechanisms so that the population can access bitcoin transactions.
+
+Art. 13. All obligations in money expressed in USD, existing before the effective date of this law, may be paid in bitcoin.
+
+Art. 14. Before the entry into force of this law, the State will guarantee, through the creation of a trust at the United States Treasury, the automatic and instantaneous convertibility of bitcoin to USD necessary for the alternatives provided by the State mentioned in Art. 8.
+
+Art. 15. This law will have a special character in its application concerning other laws that regulate the matter, repealing any provision that contradicts it.
+
+Art. 16. This decree will take affect on January 1, 2023.
 
 &nbsp;
 
