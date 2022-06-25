@@ -300,7 +300,7 @@ Sec.809.Advisory Committee on Financial Innovation.
 
 "(b) Limitation.—
 
-"(1) In general.—The amount of gain or loss excluded from gross income under subsection (a) with respect to a sale or exchange shall not exceed $200.
+"(1) In general.—The amount of gain or loss excluded from gross income under subsection (a) with respect to a sale or exchange shall not exceed $5,000.
 
 "(2) Aggregation rule.—For purposes of this subsection, all sales or exchanges which are part of the same transaction (or a series of related transactions) shall be treated as one sale or exchange.
 
